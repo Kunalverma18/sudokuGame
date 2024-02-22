@@ -16,7 +16,7 @@ An immersive Sudoku game using ReactJS, blending intuitive gameplay with a respo
 
 ## Demo
 
-[See the Live Project here](https://weather-app-project-by-kunal.netlify.app/)
+[See the Live Project here]()
 ## Installation
 
 Clone the project
